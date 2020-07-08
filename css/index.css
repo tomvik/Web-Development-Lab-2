@@ -75,6 +75,16 @@ header{
   flex-direction: row;
   color: white;
   justify-content: flex-end;
+  align-items: baseline;
+  padding: 10px 0 10px 0;
+}
+
+li {
+  padding: 0 15px 0 15px;
+}
+
+.hamburger {
+  display:none;
 }
 
 }
